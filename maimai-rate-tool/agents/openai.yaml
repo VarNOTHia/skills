@@ -1,0 +1,6 @@
+interface:
+  display_name: "maimai Rate Tool"
+  short_description: "Identify and upload maimai DX scores"
+  default_prompt: "Use $maimai-rate-tool to identify a maimai DX result screenshot, match it to Diving-Fish music data, and prepare a confirmed upload."
+policy:
+  allow_implicit_invocation: true
